@@ -1,0 +1,37 @@
+.img-content {
+    width: 50%;
+    float: left;
+
+}
+
+.image {
+    width: auto;
+    float: left;
+
+}
+
+.main-content {
+    clear: both;
+}
+
+#main-body {
+    width: 50%;
+    float: left;
+}
+
+#sidebar {
+    width: 50%;
+    float: left;
+}
+
+#header {
+    background-color: aqua
+}
+
+#menu {
+    background-color: aqua
+}
+
+div#menu ul li {
+    display: inline;
+}
